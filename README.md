@@ -21,6 +21,3 @@
 
 A paixão pela programação é a força que transforma linhas de código em obras de arte digitais.
 
-## Whatsapp: (11) 959354098
-
-## E-mail: Alisson694403@gmail.com
