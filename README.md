@@ -26,7 +26,7 @@
     <a href = "mailto: alesson9212@hotmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/alesson-santos-12340027b/">
       <img width="25" src="linkedin.svg">
     </a>
   
