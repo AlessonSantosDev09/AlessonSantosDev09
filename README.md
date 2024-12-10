@@ -5,7 +5,7 @@
 
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alesson-santos-12340027b/)
-[![Blog](https://img.shields.io/website?label=AlessonDeveloper&style=for-the-badge&url=https://alesson-developer.netlify.app//)](https://alesson-developer.netlify.app/)
+
 
 ![Alesson GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessonSantosDev09&show_icons=true&theme=dark)
 
